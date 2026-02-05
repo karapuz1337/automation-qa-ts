@@ -1,0 +1,4 @@
+/.augment
+node_modules/
+.idea/
+dist/
